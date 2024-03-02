@@ -12,3 +12,4 @@ Multi-threading OAuth Deployment Testing Container Orchestration API Gateway Eve
 Microservices Agile Monitoring Big Data Simplicity is the ultimate sophistication. UX Optimization Server Response
 Microservices NLP CI/CD Big Data WebSockets
 Deployment Code Review Latency Optimization OAuth Pull Request Work hard in silence, let your success be your noise. Server Response Zero Downtime Deployment Kubernetes Event Sourcing If you can dream it, you can do it.
+Replica Set Code Review Cache Invalidation Act as if what you do makes a difference. It does. Security A/B Testing Artificial Intelligence Great things never come from comfort zones. Kafka Virtual Machines Neural Networks The only way to do great work is to love what you do. CI/CD Work hard in silence, let your success be your noise.
