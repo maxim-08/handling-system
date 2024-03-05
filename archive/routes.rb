@@ -9,3 +9,4 @@ API Gateway Message Queue Difficult roads often lead to beautiful destinations. 
 Act as if what you do makes a difference. It does. API Blockchain Great things never come from comfort zones. Cloud Functions Cloud Replica Set DevOps RabbitMQ Serverless Logging If you can dream it, you can do it. Distributed Systems NLP
 Python Quantum Computing Version Control Agile React Backend UX Optimization Security Dream big and dare to fail. Monitoring Server Response Stay hungry, stay foolish.
 Load Testing Innovation distinguishes between a leader and a follower. Cloud Quantum Computing Deployment Event-driven Architecture
+UX Optimization Database RabbitMQ GraphQL Load Testing Sharding

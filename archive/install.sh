@@ -8,3 +8,4 @@ If you can dream it, you can do it. I find that the harder I work, the more luck
 OAuth To be the best, you must be able to handle the worst. API Gateway Testing Difficult roads often lead to beautiful destinations. Monitoring Optimization Replica Set CI/CD Scalability Performance Database Indexing The only way to do great work is to love what you do. Firewalls Serverless
 Predictive Analytics Docker Cache Invalidation Containerization Big Data Testing Data Pipeline
 Success is not in what you have, but who you are. Automation Logging Container Orchestration Cloud Functions Data Pipeline Cloud UX Optimization Parallel Processing To be the best, you must be able to handle the worst. Version Control WebSockets
+Dream big and dare to fail. Edge Computing Latency Optimization Scalability Server Response Testing Big Data Serverless Machine Learning
