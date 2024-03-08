@@ -8,3 +8,4 @@ Microservices Cloud OAuth Success is how high you bounce when you hit bottom. CI
 Serverless Dream big and dare to fail. Firewalls Load Testing Server Response
 Database Security To be the best, you must be able to handle the worst. Logging Frontend Container Orchestration Parallel Processing A/B Testing Docker Stay hungry, stay foolish. NLP
 Monitoring Success doesn’t just find you. You have to go out and get it. UX Optimization Code Review Stay hungry, stay foolish. Docker Do what you love and the money will follow.
+Version Control Frontend DevOps Parallel Processing Scalability UX Optimization Database Indexing Agile
