@@ -8,3 +8,4 @@ Data Science API Content Delivery Network Scalability Code Review Parallel Proce
 To be the best, you must be able to handle the worst. Distributed Systems Framework Version Control Load Testing NLP Data Pipeline
 Lambda Functions Serverless Distributed Systems Docker Cloud Functions Great things never come from comfort zones. Latency Optimization Dream big and dare to fail. Algorithm Machine Learning UX Optimization
 Monitoring Content Delivery Network Code Review Load Balancing Performance React Simplicity is the ultimate sophistication. Database Indexing
+Success usually comes to those who are too busy to be looking for it. UX Optimization Dream big and dare to fail. Virtual Machines Cloud Functions Cache Invalidation
