@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. Content De
 Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Optimization IoT Success is not in what you have, but who you are. Neural Networks Automation
 Simplicity is the ultimate sophistication. Zero Downtime Deployment Pull Request DNS Routing Cloud Kafka Work hard in silence, let your success be your noise. Logging GraphQL Content Delivery Network Load Testing Big Data React
 Machine Learning Containerization Performance Cloud Version Control UX Optimization Kafka Optimization JavaScript
+Microservices Logging CI/CD UX Optimization Opportunities don't happen. You create them. Edge Computing Performance Multi-threading Docker WebSockets DNS Routing I find that the harder I work, the more luck I seem to have. Cloud
