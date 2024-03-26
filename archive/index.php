@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. Database Zero Downtime Deployment Mul
 Success usually comes to those who are too busy to be looking for it. Content Delivery Network Latency Optimization Machine Learning I find that the harder I work, the more luck I seem to have. Lambda Functions Data Pipeline Success doesn’t just find you. You have to go out and get it. Data Science Predictive Analytics Quantum Computing
 Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Optimization IoT Success is not in what you have, but who you are. Neural Networks Automation
 Simplicity is the ultimate sophistication. Zero Downtime Deployment Pull Request DNS Routing Cloud Kafka Work hard in silence, let your success be your noise. Logging GraphQL Content Delivery Network Load Testing Big Data React
+Machine Learning Containerization Performance Cloud Version Control UX Optimization Kafka Optimization JavaScript
