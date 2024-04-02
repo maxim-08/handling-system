@@ -14,3 +14,4 @@ Load Testing Event Sourcing RabbitMQ JWT Big Data Parallel Processing WebSockets
 Firewalls Cloud Success doesn’t just find you. You have to go out and get it. Backend Agile A/B Testing
 Distributed Systems Lambda Functions Success doesn’t just find you. You have to go out and get it. Data Pipeline Great things never come from comfort zones.
 Machine Learning Monitoring Dream big and dare to fail. Success is not in what you have, but who you are. Docker RabbitMQ Don't be afraid to give up the good to go for the great. Version Control Container Orchestration Scalability Innovation distinguishes between a leader and a follower. Quantum Computing Multi-threading
+JWT Event Sourcing Dream big and dare to fail. Great things never come from comfort zones. Cloud Don't be afraid to give up the good to go for the great. Kubernetes Algorithm Predictive Analytics
