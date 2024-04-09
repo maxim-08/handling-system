@@ -6,3 +6,4 @@ Neural Networks Code Review RabbitMQ Success doesn’t just find you. You have to 
 I find that the harder I work, the more luck I seem to have. Load Balancing Predictive Analytics Simplicity is the ultimate sophistication. Containerization Microservices
 Neural Networks Great things never come from comfort zones. Replica Set Multi-threading If you can dream it, you can do it. IoT Blockchain
 Serverless Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Database Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Content Delivery Network Distributed Systems DevOps Stay hungry, stay foolish. Lambda Functions Latency Optimization
+UX Optimization Deployment WebSockets Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Algorithm To be the best, you must be able to handle the worst. Multi-threading Latency Optimization Pull Request
