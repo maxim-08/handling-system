@@ -11,3 +11,4 @@ NLP Innovation distinguishes between a leader and a follower. Cache Invalidation
 CI/CD Edge Computing Multi-threading Container Orchestration I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Stay hungry, stay foolish. JavaScript API Zero Downtime Deployment Deployment Virtual Machines Success usually comes to those who are too busy to be looking for it. Security Blockchain
 Data Pipeline Multi-threading Code Review A/B Testing React Python Container Orchestration Microservices
 Server Response Deployment Neural Networks To be the best, you must be able to handle the worst. CI/CD Opportunities don't happen. You create them. Framework Dream big and dare to fail. Docker Logging
+Performance Multi-threading Do what you love and the money will follow. DevOps Logging Container Orchestration Database Indexing API Gateway To be the best, you must be able to handle the worst. Dream big and dare to fail. Edge Computing
