@@ -10,3 +10,4 @@ Testing Work hard in silence, let your success be your noise. Containerization A
 Performance Frontend Simplicity is the ultimate sophistication. Database Indexing I find that the harder I work, the more luck I seem to have. Cloud OAuth Stay hungry, stay foolish. DNS Routing Security
 Multi-threading OAuth Deployment Testing Container Orchestration API Gateway Event-driven Architecture JWT CI/CD
 Microservices Agile Monitoring Big Data Simplicity is the ultimate sophistication. UX Optimization Server Response
+Microservices NLP CI/CD Big Data WebSockets
