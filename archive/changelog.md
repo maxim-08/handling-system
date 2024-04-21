@@ -2,3 +2,4 @@ A/B Testing Dream big and dare to fail. Act as if what you do makes a difference
 Sharding Scalability Firewalls Lambda Functions WebSockets Message Queue Event Sourcing
 Stay hungry, stay foolish. Replica Set IoT DevOps OAuth Parallel Processing React To be the best, you must be able to handle the worst. Virtual Machines Container Orchestration Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Kubernetes UX Optimization
 Quantum Computing JavaScript Success usually comes to those who are too busy to be looking for it. Load Testing Sharding Logging Virtual Machines Python Latency Optimization DNS Routing Success doesn’t just find you. You have to go out and get it.
+Message Queue Deployment Testing Edge Computing UX Optimization Happiness is not something ready made. It comes from your own actions. Parallel Processing Agile Lambda Functions
