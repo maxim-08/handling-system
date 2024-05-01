@@ -12,3 +12,4 @@ Innovation distinguishes between a leader and a follower. Database Dream big and
 Cloud DNS Routing Framework Scalability Event-driven Architecture API Gateway Microservices To be the best, you must be able to handle the worst.
 Load Testing Event Sourcing RabbitMQ JWT Big Data Parallel Processing WebSockets IoT Container Orchestration Success is how high you bounce when you hit bottom. DevOps Latency Optimization Kafka
 Firewalls Cloud Success doesn’t just find you. You have to go out and get it. Backend Agile A/B Testing
+Distributed Systems Lambda Functions Success doesn’t just find you. You have to go out and get it. Data Pipeline Great things never come from comfort zones.
