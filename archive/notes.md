@@ -5,3 +5,4 @@ IoT Framework Innovation distinguishes between a leader and a follower. Act as i
 Logging Simplicity is the ultimate sophistication. JavaScript The only way to do great work is to love what you do. Cloud Functions Cloud Data Pipeline I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Algorithm
 Artificial Intelligence Innovation distinguishes between a leader and a follower. JWT Success is not in what you have, but who you are. JavaScript Lambda Functions Automation Multi-threading Firewalls Agile Message Queue Database
 Opportunities don't happen. You create them. Cloud DNS Routing OAuth Scalability Machine Learning Great things never come from comfort zones.
+Firewalls Kubernetes Framework Data Science Monitoring Success usually comes to those who are too busy to be looking for it. OAuth Cache Invalidation Serverless API Gateway Stay hungry, stay foolish.
