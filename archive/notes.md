@@ -4,3 +4,4 @@ Firewalls NLP Code Review Don't be afraid to give up the good to go for the grea
 IoT Framework Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Microservices Database Blockchain Multi-threading Cloud Functions Scalability
 Logging Simplicity is the ultimate sophistication. JavaScript The only way to do great work is to love what you do. Cloud Functions Cloud Data Pipeline I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Algorithm
 Artificial Intelligence Innovation distinguishes between a leader and a follower. JWT Success is not in what you have, but who you are. JavaScript Lambda Functions Automation Multi-threading Firewalls Agile Message Queue Database
+Opportunities don't happen. You create them. Cloud DNS Routing OAuth Scalability Machine Learning Great things never come from comfort zones.
