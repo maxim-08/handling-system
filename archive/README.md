@@ -9,3 +9,4 @@ Distributed Systems Sharding Dream big and dare to fail. Message Queue Data Pipe
 Microservices Simplicity is the ultimate sophistication. Latency Optimization Zero Downtime Deployment Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Pull Request Containerization Neural Networks
 NLP Innovation distinguishes between a leader and a follower. Cache Invalidation Parallel Processing Quantum Computing Latency Optimization Dream big and dare to fail.
 CI/CD Edge Computing Multi-threading Container Orchestration I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Stay hungry, stay foolish. JavaScript API Zero Downtime Deployment Deployment Virtual Machines Success usually comes to those who are too busy to be looking for it. Security Blockchain
+Data Pipeline Multi-threading Code Review A/B Testing React Python Container Orchestration Microservices
