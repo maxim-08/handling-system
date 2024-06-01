@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. Latency O
 Microservices Cloud OAuth Success is how high you bounce when you hit bottom. CI/CD Agile Performance Success usually comes to those who are too busy to be looking for it. Replica Set Parallel Processing Database Indexing The only way to do great work is to love what you do. Do what you love and the money will follow. Algorithm Deployment
 Serverless Dream big and dare to fail. Firewalls Load Testing Server Response
 Database Security To be the best, you must be able to handle the worst. Logging Frontend Container Orchestration Parallel Processing A/B Testing Docker Stay hungry, stay foolish. NLP
+Monitoring Success doesn’t just find you. You have to go out and get it. UX Optimization Code Review Stay hungry, stay foolish. Docker Do what you love and the money will follow.

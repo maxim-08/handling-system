@@ -7,3 +7,4 @@ Act as if what you do makes a difference. It does. Kubernetes Success usually co
 Multi-threading Testing Artificial Intelligence Load Balancing Security Database Indexing Monitoring Blockchain JWT Edge Computing Python Sharding
 I find that the harder I work, the more luck I seem to have. Kubernetes Artificial Intelligence Scalability Python Pull Request Security
 Predictive Analytics Dream big and dare to fail. Virtual Machines Work hard in silence, let your success be your noise. Security Algorithm Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. JavaScript Version Control Serverless
+Logging Code Review Version Control Act as if what you do makes a difference. It does. Microservices A/B Testing Predictive Analytics Kubernetes The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. DNS Routing
