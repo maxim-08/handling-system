@@ -4,3 +4,4 @@ Version Control Message Queue React Cloud Functions Success usually comes to tho
 API Gateway Cache Invalidation Edge Computing GraphQL Kubernetes
 Distributed Systems Don't be afraid to give up the good to go for the great. Database Indexing Server Response Stay hungry, stay foolish.
 Innovation distinguishes between a leader and a follower. Code Review Data Science API A/B Testing I find that the harder I work, the more luck I seem to have.
+React Database Success is not in what you have, but who you are. Optimization Machine Learning The only way to do great work is to love what you do. Kubernetes Latency Optimization Replica Set Event Sourcing
