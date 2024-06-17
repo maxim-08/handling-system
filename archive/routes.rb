@@ -3,3 +3,4 @@ GraphQL RabbitMQ Success is not in what you have, but who you are. CI/CD Pull Re
 Version Control Message Queue React Cloud Functions Success usually comes to those who are too busy to be looking for it. Cloud Automation Data Pipeline Simplicity is the ultimate sophistication. Neural Networks Frontend Python Zero Downtime Deployment Agile Blockchain
 API Gateway Cache Invalidation Edge Computing GraphQL Kubernetes
 Distributed Systems Don't be afraid to give up the good to go for the great. Database Indexing Server Response Stay hungry, stay foolish.
+Innovation distinguishes between a leader and a follower. Code Review Data Science API A/B Testing I find that the harder I work, the more luck I seem to have.
