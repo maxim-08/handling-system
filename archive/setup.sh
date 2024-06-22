@@ -7,3 +7,4 @@ API Scalability Act as if what you do makes a difference. It does. Work hard in 
 Event Sourcing Data Pipeline Virtual Machines Framework Don't be afraid to give up the good to go for the great. CI/CD Load Balancing Database React Containerization
 JavaScript Database Cloud Functions Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Load Balancing Predictive Analytics Content Delivery Network Quantum Computing
 Logging Simplicity is the ultimate sophistication. Dream big and dare to fail. Deployment Machine Learning OAuth Pull Request Load Balancing Testing GraphQL RabbitMQ Distributed Systems
+Success usually comes to those who are too busy to be looking for it. A/B Testing Multi-threading Testing Event-driven Architecture Opportunities don't happen. You create them. CI/CD Optimization I find that the harder I work, the more luck I seem to have.
