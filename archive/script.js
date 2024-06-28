@@ -5,3 +5,4 @@ Parallel Processing Virtual Machines Act as if what you do makes a difference. I
 Success usually comes to those who are too busy to be looking for it. Cloud Work hard in silence, let your success be your noise. Sharding NLP Performance Microservices Agile Cache Invalidation Simplicity is the ultimate sophistication. Load Testing API
 OAuth Logging Code Review Lambda Functions Kafka Framework Firewalls Machine Learning Blockchain Innovation distinguishes between a leader and a follower. RabbitMQ Parallel Processing JWT
 Data Science API Content Delivery Network Scalability Code Review Parallel Processing Great things never come from comfort zones. Work hard in silence, let your success be your noise. OAuth Database Indexing A/B Testing Artificial Intelligence Container Orchestration
+To be the best, you must be able to handle the worst. Distributed Systems Framework Version Control Load Testing NLP Data Pipeline
