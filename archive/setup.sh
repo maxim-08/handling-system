@@ -6,3 +6,4 @@ Kubernetes Success usually comes to those who are too busy to be looking for it.
 API Scalability Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Kafka Opportunities don't happen. You create them. Docker Replica Set
 Event Sourcing Data Pipeline Virtual Machines Framework Don't be afraid to give up the good to go for the great. CI/CD Load Balancing Database React Containerization
 JavaScript Database Cloud Functions Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Load Balancing Predictive Analytics Content Delivery Network Quantum Computing
+Logging Simplicity is the ultimate sophistication. Dream big and dare to fail. Deployment Machine Learning OAuth Pull Request Load Balancing Testing GraphQL RabbitMQ Distributed Systems
