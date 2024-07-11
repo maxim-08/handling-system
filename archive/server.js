@@ -6,3 +6,4 @@ Difficult roads often lead to beautiful destinations. Innovation distinguishes b
 Great things never come from comfort zones. Server Response Success is how high you bounce when you hit bottom. Load Testing JavaScript
 Algorithm Event Sourcing Python Automation Containerization Happiness is not something ready made. It comes from your own actions.
 Cache Invalidation Container Orchestration Difficult roads often lead to beautiful destinations. Docker Version Control JWT Event Sourcing Microservices Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Database Performance Opportunities don't happen. You create them.
+Database Indexing Act as if what you do makes a difference. It does. API Load Balancing Opportunities don't happen. You create them. Kafka RabbitMQ If you can dream it, you can do it. WebSockets Docker
