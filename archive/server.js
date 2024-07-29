@@ -5,3 +5,4 @@ Lambda Functions Agile Blockchain Database Indexing IoT Dream big and dare to fa
 Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Algorithm Simplicity is the ultimate sophistication. Python WebSockets Testing Scalability IoT Monitoring Microservices
 Great things never come from comfort zones. Server Response Success is how high you bounce when you hit bottom. Load Testing JavaScript
 Algorithm Event Sourcing Python Automation Containerization Happiness is not something ready made. It comes from your own actions.
+Cache Invalidation Container Orchestration Difficult roads often lead to beautiful destinations. Docker Version Control JWT Event Sourcing Microservices Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Database Performance Opportunities don't happen. You create them.
