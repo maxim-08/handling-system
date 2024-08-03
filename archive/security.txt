@@ -9,3 +9,4 @@ React To be the best, you must be able to handle the worst. Event Sourcing Agile
 Pull Request Message Queue Cache Invalidation Success is how high you bounce when you hit bottom. Artificial Intelligence Code Review Logging Parallel Processing Machine Learning Difficult roads often lead to beautiful destinations. Cloud Functions Optimization Innovation distinguishes between a leader and a follower. Kubernetes
 Containerization Database Monitoring Server Response Artificial Intelligence
 Innovation distinguishes between a leader and a follower. Database Dream big and dare to fail. Server Response Security Sharding
+Cloud DNS Routing Framework Scalability Event-driven Architecture API Gateway Microservices To be the best, you must be able to handle the worst.
