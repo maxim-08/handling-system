@@ -4,3 +4,4 @@ IoT Great things never come from comfort zones. React A/B Testing Kubernetes Doc
 Lambda Functions Agile Blockchain Database Indexing IoT Dream big and dare to fail. CI/CD Testing Parallel Processing Work hard in silence, let your success be your noise. UX Optimization The only way to do great work is to love what you do.
 Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Algorithm Simplicity is the ultimate sophistication. Python WebSockets Testing Scalability IoT Monitoring Microservices
 Great things never come from comfort zones. Server Response Success is how high you bounce when you hit bottom. Load Testing JavaScript
+Algorithm Event Sourcing Python Automation Containerization Happiness is not something ready made. It comes from your own actions.
