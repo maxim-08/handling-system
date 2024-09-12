@@ -4,3 +4,4 @@ Scalability Framework Security Deployment Database Indexing Happiness is not som
 Firewalls Python Framework CI/CD RabbitMQ Load Balancing Message Queue
 Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Load Testing Edge Computing GraphQL Deployment NLP Dream big and dare to fail. Monitoring
 Distributed Systems API Microservices Artificial Intelligence Cache Invalidation Do what you love and the money will follow. Simplicity is the ultimate sophistication. Load Balancing Data Pipeline Innovation distinguishes between a leader and a follower. DevOps Happiness is not something ready made. It comes from your own actions. Blockchain
+Machine Learning Version Control Backend Success usually comes to those who are too busy to be looking for it. Kubernetes JavaScript The only way to do great work is to love what you do. Automation Message Queue OAuth Cloud Functions Database

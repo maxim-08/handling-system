@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. Cache Invalidation 
 Firewalls Kafka Success is how high you bounce when you hit bottom. Optimization Load Testing Container Orchestration
 Logging DevOps Database Indexing Opportunities don't happen. You create them. OAuth Innovation distinguishes between a leader and a follower. JWT Don't be afraid to give up the good to go for the great. GraphQL
 Blockchain Security Performance JWT Predictive Analytics React
+Testing Work hard in silence, let your success be your noise. Containerization API Difficult roads often lead to beautiful destinations. Cache Invalidation Dream big and dare to fail. Stay hungry, stay foolish. Predictive Analytics Message Queue WebSockets Event-driven Architecture
