@@ -7,3 +7,4 @@ Scalability Simplicity is the ultimate sophistication. Message Queue Difficult r
 Cloud Functions Algorithm WebSockets Testing Success usually comes to those who are too busy to be looking for it. Monitoring Message Queue JWT
 React To be the best, you must be able to handle the worst. Event Sourcing Agile Innovation distinguishes between a leader and a follower. Data Pipeline API WebSockets Scalability Frontend Cache Invalidation Deployment
 Pull Request Message Queue Cache Invalidation Success is how high you bounce when you hit bottom. Artificial Intelligence Code Review Logging Parallel Processing Machine Learning Difficult roads often lead to beautiful destinations. Cloud Functions Optimization Innovation distinguishes between a leader and a follower. Kubernetes
+Containerization Database Monitoring Server Response Artificial Intelligence
