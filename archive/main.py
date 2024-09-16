@@ -5,3 +5,4 @@ Virtual Machines Happiness is not something ready made. It comes from your own a
 I find that the harder I work, the more luck I seem to have. Cache Invalidation Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Message Queue Do what you love and the money will follow. Machine Learning Testing Kubernetes Neural Networks Work hard in silence, let your success be your noise. Distributed Systems Opportunities don't happen. You create them.
 Firewalls Kafka Success is how high you bounce when you hit bottom. Optimization Load Testing Container Orchestration
 Logging DevOps Database Indexing Opportunities don't happen. You create them. OAuth Innovation distinguishes between a leader and a follower. JWT Don't be afraid to give up the good to go for the great. GraphQL
+Blockchain Security Performance JWT Predictive Analytics React
