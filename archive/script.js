@@ -1,2 +1,3 @@
 IoT API Gateway Version Control I find that the harder I work, the more luck I seem to have. Scalability Simplicity is the ultimate sophistication. Docker Latency Optimization NLP The only way to do great work is to love what you do.
 Agile Latency Optimization Framework Happiness is not something ready made. It comes from your own actions. Machine Learning NLP Dream big and dare to fail. DevOps Version Control Success doesn’t just find you. You have to go out and get it. Security Containerization IoT React
+To be the best, you must be able to handle the worst. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Cloud Functions Algorithm JavaScript Security Distributed Systems Cache Invalidation Optimization
