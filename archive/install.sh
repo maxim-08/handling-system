@@ -1,3 +1,4 @@
 Success is how high you bounce when you hit bottom. Data Science JWT Distributed Systems Version Control Load Balancing Code Review OAuth Latency Optimization Serverless Frontend
 Parallel Processing The only way to do great work is to love what you do. UX Optimization Blockchain Cache Invalidation Monitoring DevOps Deployment Data Science Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Lambda Functions Latency Optimization NLP OAuth
 DevOps Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Act as if what you do makes a difference. It does. Database Cache Invalidation Latency Optimization Kafka Content Delivery Network If you can dream it, you can do it. Pull Request Docker
+Container Orchestration Content Delivery Network Predictive Analytics Performance Quantum Computing
