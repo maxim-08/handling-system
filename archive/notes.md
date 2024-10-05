@@ -2,3 +2,4 @@ Artificial Intelligence Scalability Success doesn’t just find you. You have to g
 OAuth Algorithm Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Scalability Python Zero Downtime Deployment Great things never come from comfort zones. Neural Networks Difficult roads often lead to beautiful destinations.
 Firewalls NLP Code Review Don't be afraid to give up the good to go for the great. Neural Networks JavaScript
 IoT Framework Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Microservices Database Blockchain Multi-threading Cloud Functions Scalability
+Logging Simplicity is the ultimate sophistication. JavaScript The only way to do great work is to love what you do. Cloud Functions Cloud Data Pipeline I find that the harder I work, the more luck I seem to have. Lambda Functions DevOps Algorithm

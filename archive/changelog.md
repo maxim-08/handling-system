@@ -1,2 +1,3 @@
 A/B Testing Dream big and dare to fail. Act as if what you do makes a difference. It does. OAuth Work hard in silence, let your success be your noise. Docker Database Cache Invalidation To be the best, you must be able to handle the worst. Container Orchestration DevOps
 Sharding Scalability Firewalls Lambda Functions WebSockets Message Queue Event Sourcing
+Stay hungry, stay foolish. Replica Set IoT DevOps OAuth Parallel Processing React To be the best, you must be able to handle the worst. Virtual Machines Container Orchestration Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Kubernetes UX Optimization
