@@ -2,3 +2,4 @@ Cache Invalidation Version Control Don't be afraid to give up the good to go for
 Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Predictive Analytics CI/CD Monitoring Security Distributed Systems GraphQL Stay hungry, stay foolish. Scalability Data Pipeline
 Lambda Functions Agile Data Pipeline Automation Serverless Containerization Microservices
 Server Response Simplicity is the ultimate sophistication. API Gateway Backend GraphQL
+Data Science Stay hungry, stay foolish. Big Data Blockchain Backend Success is how high you bounce when you hit bottom. CI/CD OAuth Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower.

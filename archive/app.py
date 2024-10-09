@@ -3,3 +3,4 @@ Predictive Analytics Cloud Functions Serverless Zero Downtime Deployment Artific
 Frontend DNS Routing Message Queue Success usually comes to those who are too busy to be looking for it. GraphQL Big Data A/B Testing Deployment
 Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. OAuth Pull Request Data Pipeline Quantum Computing Machine Learning Security Simplicity is the ultimate sophistication. Version Control Data Science JavaScript Logging
 Automation Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Docker CI/CD Virtual Machines Database Indexing Agile Frontend
+Parallel Processing If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Edge Computing Lambda Functions Success usually comes to those who are too busy to be looking for it. Version Control JavaScript
