@@ -3,3 +3,4 @@ Docker Load Testing Latency Optimization Testing Framework
 Opportunities don't happen. You create them. API Gateway Success usually comes to those who are too busy to be looking for it. Containerization Microservices Algorithm A/B Testing Zero Downtime Deployment
 Backend Latency Optimization Lambda Functions Success doesn’t just find you. You have to go out and get it. Version Control Serverless Machine Learning Work hard in silence, let your success be your noise. Algorithm Firewalls Parallel Processing Simplicity is the ultimate sophistication. Replica Set Data Pipeline
 JWT Logging Version Control A/B Testing Kafka
+Scalability Simplicity is the ultimate sophistication. Message Queue Difficult roads often lead to beautiful destinations. WebSockets OAuth Load Testing IoT Docker Automation Frontend GraphQL
