@@ -2,3 +2,4 @@ Do what you love and the money will follow. Edge Computing A/B Testing GraphQL K
 Optimization Monitoring Parallel Processing Great things never come from comfort zones. Load Balancing Message Queue Pull Request Kafka I find that the harder I work, the more luck I seem to have.
 Scalability Framework Security Deployment Database Indexing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Artificial Intelligence Predictive Analytics The only way to do great work is to love what you do. Performance DNS Routing Data Pipeline Agile
 Firewalls Python Framework CI/CD RabbitMQ Load Balancing Message Queue
+Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Load Testing Edge Computing GraphQL Deployment NLP Dream big and dare to fail. Monitoring
