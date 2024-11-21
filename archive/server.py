@@ -1,3 +1,4 @@
 Load Balancing Database WebSockets Neural Networks Success doesn’t just find you. You have to go out and get it. Container Orchestration Testing
 I find that the harder I work, the more luck I seem to have. DNS Routing Parallel Processing Kafka Sharding Deployment Microservices Automation RabbitMQ NLP
 CI/CD Success usually comes to those who are too busy to be looking for it. GraphQL Algorithm Framework UX Optimization Stay hungry, stay foolish. RabbitMQ Performance Testing Microservices
+Act as if what you do makes a difference. It does. API Security Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Microservices OAuth Agile Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
