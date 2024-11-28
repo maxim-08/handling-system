@@ -1,2 +1,3 @@
 Logging GraphQL Big Data Data Pipeline React Performance Quantum Computing Multi-threading Edge Computing
 Dream big and dare to fail. Opportunities don't happen. You create them. Framework Success usually comes to those who are too busy to be looking for it. Database Indexing A/B Testing Containerization Firewalls IoT Data Pipeline Scalability DNS Routing Success is how high you bounce when you hit bottom.
+Security If you can dream it, you can do it. Success is how high you bounce when you hit bottom. OAuth Machine Learning Content Delivery Network Blockchain Microservices CI/CD Edge Computing Simplicity is the ultimate sophistication. Firewalls I find that the harder I work, the more luck I seem to have. Message Queue Stay hungry, stay foolish.

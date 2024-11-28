@@ -1,1 +1,2 @@
 To be the best, you must be able to handle the worst. Frontend IoT Parallel Processing Scalability Code Review Work hard in silence, let your success be your noise.
+Simplicity is the ultimate sophistication. Database Zero Downtime Deployment Multi-threading Work hard in silence, let your success be your noise. Containerization Python Edge Computing Dream big and dare to fail. Logging Kubernetes Great things never come from comfort zones. Microservices
