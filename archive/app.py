@@ -1,3 +1,4 @@
 Sharding Data Science Version Control CI/CD Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Logging Lambda Functions
 Predictive Analytics Cloud Functions Serverless Zero Downtime Deployment Artificial Intelligence UX Optimization Frontend Container Orchestration Replica Set Machine Learning Containerization Content Delivery Network Success doesn’t just find you. You have to go out and get it. API Gateway Lambda Functions
 Frontend DNS Routing Message Queue Success usually comes to those who are too busy to be looking for it. GraphQL Big Data A/B Testing Deployment
+Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. OAuth Pull Request Data Pipeline Quantum Computing Machine Learning Security Simplicity is the ultimate sophistication. Version Control Data Science JavaScript Logging
