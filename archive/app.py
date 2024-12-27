@@ -1,1 +1,2 @@
 Sharding Data Science Version Control CI/CD Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Logging Lambda Functions
+Predictive Analytics Cloud Functions Serverless Zero Downtime Deployment Artificial Intelligence UX Optimization Frontend Container Orchestration Replica Set Machine Learning Containerization Content Delivery Network Success doesn’t just find you. You have to go out and get it. API Gateway Lambda Functions
