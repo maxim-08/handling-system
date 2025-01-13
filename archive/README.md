@@ -1,1 +1,2 @@
 Do what you love and the money will follow. Edge Computing A/B Testing GraphQL Kubernetes OAuth Scalability Success doesn’t just find you. You have to go out and get it. Data Pipeline Replica Set API Gateway Backend Docker Server Response UX Optimization
+Optimization Monitoring Parallel Processing Great things never come from comfort zones. Load Balancing Message Queue Pull Request Kafka I find that the harder I work, the more luck I seem to have.
